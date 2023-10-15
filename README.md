@@ -8,12 +8,6 @@
 - 🌱 I’m currently learning **Animations and 3D modelling on site and Working on Backend skills**
 
 
-
-
-
-
-
-
 - 👨‍💻 All of my projects are available at [https://github.com/Shreyanshp-3](https://github.com/Shreyanshp-3)
 
 
