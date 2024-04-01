@@ -3,12 +3,7 @@
 
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-
-
-
-
-
-- 🔭 I’m currently working on **Udemy - Course Platform**
+- 🔭 I’m currently working on **Restaurants  and Food Ordering Platform**
 - 🌱 I’m currently learning **Animations and 3D modelling on site and Working on Backend skills**
 
 
