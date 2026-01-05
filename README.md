@@ -19,7 +19,7 @@
 - ⚡ Fun fact **"I embody the prowess of a full-stack virtuoso with a mastery of front-end brilliance."**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 </p>
 
