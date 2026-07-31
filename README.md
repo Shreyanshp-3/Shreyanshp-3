@@ -131,7 +131,7 @@ Building AI-powered applications and scalable web products while exploring the f
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/shreyansh-patil3/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
