@@ -12,7 +12,7 @@ Building AI-powered applications and scalable web products while exploring the f
 
 ## 🚀 About Me
 
-- 🔭 Currently building **AI-powered applications using LLMs, RAG, FastAPI, and React**
+- 🔭 Currently building **AI-powered applications using LLMs, RAG, FastAPI, and React.**
 - 🤖 Building **production-ready AI projects every weekend**
 - 🌱 Currently learning:
   - AI Agents
