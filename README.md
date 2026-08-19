@@ -22,7 +22,7 @@ Building AI-powered applications and scalable web products while exploring the f
   - FastAPI
   - Docker
   - AWS
-- 💬 Ask me about **AI Engineering, MERN Stack, React, Node.js, UI/UX and FastAPI**
+- 💬 Ask me about **AI Engineering, MERN Stack, React, Node.js, UI/UX and FastAPI.**
 - 📫 Reach me at **shreyanshpatil003@gmail.com**
 - 🌐 Portfolio: **https://shreyansh-portfolio.onrender.com/**
 - ⚡ Fun Fact: **I love building products where design meets AI.**
