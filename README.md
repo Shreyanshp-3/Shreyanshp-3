@@ -14,7 +14,7 @@ Building AI-powered applications and scalable web products while exploring the f
 
 - 🔭 Currently building **AI-powered applications using LLMs, RAG, FastAPI, and React.**
 - 🤖 Building **production-ready AI projects every weekend.**
-- 🌱 Currently learning:
+- 🌱 Currently learning-
   - AI Agents
   - LangGraph
   - MCP (Model Context Protocol)
