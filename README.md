@@ -5,7 +5,7 @@ AI Engineer in Progress • Full-Stack Developer • UI/UX Designer
 </h3>
 
 <p align="center">
-Building AI-powered applications and scalable web products while exploring the future of intelligent software
+Building AI-powered applications and scalable web products while exploring the future of intelligent software.
 </p>
 
 ---
